@@ -12,6 +12,6 @@
   - UIPath
     
 **📊 Data Visualization & Business Reporting**
+  - Jupyter notebooks and advanced Excel
   - PowerBI (DAX, M, Power Query)
-  - Jupyter notebooks
-  - Excel advanced
+  - Periscope
