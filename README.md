@@ -4,7 +4,7 @@
       - [NLP](https://github.com/tikhonova/NLP)
       - [survival analysis](https://github.com/tikhonova/2022_DataCon_LA)
   - Tools:
-      - Python ([pandas and sklearn](https://github.com/tikhonova/Analyzing-Amazon-Purchase-History/blob/master/Amazon_Purchase_History_Analysis_Workbook.ipynb), [nltk](https://github.com/tikhonova/NLP/blob/master/Create_Ngrams.py), [API requests](https://github.com/tikhonova/Analyzing-Tweet-Data/blob/master/wrangle_act.ipynb), etc.)
+      - Python ([pandas and sklearn](https://github.com/tikhonova/Analyzing-Amazon-Purchase-History/blob/master/Amazon_Purchase_History_Analysis_Workbook.ipynb), [nltk](https://github.com/tikhonova/NLP/blob/master/Create_Ngrams.py), [API requests](https://github.com/tikhonova/Analyzing-Tweet-Data/blob/master/wrangle_act.ipynb), [transformers](https://github.com/tikhonova/what_would_alan_watts_say), etc.)
       - SQL (CTEs, analytical/window functions, etc.)
 
 **🔁 Data Engineering & Warehousing**
