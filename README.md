@@ -13,6 +13,7 @@
   - relational databases with Kimball EDW 
  
 **✅ Automation & Quality Assurance**
+  - end-to-end DQM system design in Redshift
   - Power Automate
   - UIPath
     
