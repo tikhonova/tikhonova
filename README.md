@@ -27,5 +27,7 @@ Experienced in:
 ### Skills
 
 • Superior attention to detail coupled with a high sense of urgency.
+
 • Capacity to challenge assumptions and be mindful of biases.
+
 • Ability to communicate and manage expectations by establishing clear timelines, deliverables, and milestones.
