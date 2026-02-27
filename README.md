@@ -2,9 +2,11 @@
 
 ### Personal project examples
 
-      - [LLM; speech synthesis & text generation](https://github.com/tikhonova/what_would_alan_watts_say)
-      - [NLP](https://github.com/tikhonova/NLP)
-      - [Survival analysis](https://github.com/tikhonova/2022_DataCon_LA)
+[LLM; speech synthesis & text generation](https://github.com/tikhonova/what_would_alan_watts_say)
+
+[NLP](https://github.com/tikhonova/NLP)
+
+[Survival analysis](https://github.com/tikhonova/2022_DataCon_LA)
 
 
 ### Experience
